@@ -1,0 +1,998 @@
+{
+  "data": [
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:24:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-08T03:25:46.382555+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:24:ankitkr104:4886396112:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-08T03:25:45.417666+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:25:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-08T03:25:44.509486+00:00",
+      "target": "25"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:25:ankitkr104:4881519651:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-07T10:39:34.088528+00:00",
+      "target": "25"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:25:ankitkr104:4881461000:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-07T10:39:33.063652+00:00",
+      "target": "25"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:25:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-07T10:39:31.362707+00:00",
+      "target": "25"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:41:piyushbijarania:4879160921:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-07T04:39:29.524357+00:00",
+      "target": "41"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4878233256:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-07T04:39:28.610727+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4878233010:COMMENTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-07T04:39:27.670262+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4878217757:COMMENTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-07T04:39:26.634076+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:41:piyushbijarania:4870349588:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-06T04:33:32.547395+00:00",
+      "target": "41"
+    },
+    {
+      "channel_id": "1504406274693922837",
+      "dedupe_key": "pr_opened_channel:OrbOracle-EVM-Frontend:41:1504406274693922837",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_opened",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-06T04:33:28.287818+00:00",
+      "target": "41"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM:29:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-05T12:03:48.506659+00:00",
+      "target": "29"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:24:ankitkr104:4863332973:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-05T12:03:48.495469+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4863035201:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-05T10:03:52.865973+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4862901227:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-05T10:03:51.703416+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:24:ankitkr104:4862768262:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-05T10:03:50.738528+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:WalletLink:4:vishwajeettulse",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_merged",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-05T10:03:49.619176+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4862414315:APPROVED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-05T10:03:48.528416+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:24:ankitkr104:4861441510:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-05T07:02:09.767656+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:24:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-05T07:02:07.925896+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4856354203:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T16:48:33.977793+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4856328970:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T16:48:33.070758+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4856311244:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T16:48:32.135707+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4856186053:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T16:48:31.215453+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4853208922:CHANGES_REQUESTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T11:11:35.955365+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": "1525366355682000948",
+      "dedupe_key": "pr_opened_channel:WalletLink:4:1525366355682000948",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_opened",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T11:11:34.050417+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4848890646:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-03T22:10:52.041264+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:134:1471163521877410045",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-03T20:10:37.392166+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4847618538:COMMENTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-03T20:10:36.372679+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:36:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Adi007-king",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-03T06:46:19.200339+00:00",
+      "target": "36"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:23:ankitkr104:4841057957:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-03T06:46:18.587264+00:00",
+      "target": "23"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:23:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-03T06:46:17.626034+00:00",
+      "target": "23"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4839686152:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-03T06:46:16.024709+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:10:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Adi007-king",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-02T17:40:51.375740+00:00",
+      "target": "10"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:35:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Adi007-king",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-02T15:41:32.707413+00:00",
+      "target": "35"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:23:ankitkr104:4837387587:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-02T06:07:21.795651+00:00",
+      "target": "23"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:23:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-02T06:07:20.757960+00:00",
+      "target": "23"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-WebUI:34:aniket866:4835616554:CHANGES_REQUESTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-02T04:07:53.643821+00:00",
+      "target": "34"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:34:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-02T04:07:52.804416+00:00",
+      "target": "34"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Keeper:8:aniket866:4835614128:CHANGES_REQUESTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-02T04:07:52.152499+00:00",
+      "target": "8"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:8:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-02T04:07:50.567963+00:00",
+      "target": "8"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:9:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-02T04:07:49.656123+00:00",
+      "target": "9"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-Sui-Frontend:89:1324064370883301386",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Akash-Dhanwate",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-01T08:36:22.140266+00:00",
+      "target": "89"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Gluon-EVM:28:sach2004",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_merged",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-30T15:40:04.637578+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4818673314:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T13:36:32.354831+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:15:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T13:36:31.366911+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:22:ankitkr104:4818686838:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T13:36:30.414574+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:22:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T13:36:29.461406+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:22:ankitkr104:4817226522:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T09:38:14.526072+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:22:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T09:38:13.624576+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:21:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T07:38:34.606819+00:00",
+      "target": "21"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:105:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-30T07:38:33.275674+00:00",
+      "target": "105"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:109:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-30T07:38:32.331427+00:00",
+      "target": "109"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:107:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-30T07:38:31.412220+00:00",
+      "target": "107"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4812609541:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-30T03:15:53.782441+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4808715700:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-29T14:35:49.664407+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:133:1471163521877410045",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-29T14:35:47.380576+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:28:sach2004:4805527347:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-29T08:50:17.180085+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:28:sach2004:4805525207:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-29T08:50:16.320228+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:28:sach2004:4805361619:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-29T08:50:15.325597+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM:28:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-29T08:50:11.657247+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:132:1471163521877410045",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-29T04:28:35.494438+00:00",
+      "target": "132"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:21:ankitkr104:4799034929:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T16:34:22.484347+00:00",
+      "target": "21"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:21:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T16:34:21.458685+00:00",
+      "target": "21"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4798163233:COMMENTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T14:34:41.881721+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:20:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T12:17:05.329428+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:3:vishwajeettulse:4793217198:APPROVED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-28T10:26:00.985305+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:WalletLink:3:vishwajeettulse",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_merged",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-28T10:25:59.855282+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:20:ankitkr104:4794285659:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:58.171035+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:20:ankitkr104:4794248714:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:56.800712+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:20:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:55.820126+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4796051038:COMMENTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:55.186973+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4794372147:COMMENTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:54.176671+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4789580508:COMMENTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:53.255812+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:109:rohans02:4793986595:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-28T10:25:52.209507+00:00",
+      "target": "109"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:105:rohans02:4794007816:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-28T10:25:51.183272+00:00",
+      "target": "105"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4793229351:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-28T10:25:50.161526+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Chainvoice:190:atharva0506",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_merged",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-28T10:25:49.144374+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786790715:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:16:02.046901+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786781708:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:16:00.998198+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786778692:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:16:00.039462+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786677192:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:15:59.019866+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786424729:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:15:57.995538+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:3:vishwajeettulse:4786021603:CHANGES_REQUESTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-27T11:17:01.539648+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:3:vishwajeettulse:4782401283:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-27T09:14:57.638783+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:33:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Adi007-king",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-07-27T09:14:56.613908+00:00",
+      "target": "33"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:19:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-26T12:26:44.886330+00:00",
+      "target": "19"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:3:vishwajeettulse:4781174861:CHANGES_REQUESTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-26T07:50:31.360295+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": "1525366355682000948",
+      "dedupe_key": "pr_opened_channel:WalletLink:3:1525366355682000948",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_opened",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-26T07:50:29.737274+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:19:ankitkr104:4781179849:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-26T07:50:29.168826+00:00",
+      "target": "19"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:19:ankitkr104:4781154185:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-26T07:50:28.128045+00:00",
+      "target": "19"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:19:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-26T07:50:25.702928+00:00",
+      "target": "19"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:109:rohans02:4781086625:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-26T07:50:24.803860+00:00",
+      "target": "109"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:103:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-26T05:44:49.395206+00:00",
+      "target": "103"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:191:atharva0506:4778848642:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-25T14:37:30.577789+00:00",
+      "target": "191"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:191:1328282666335993856",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-25T11:38:55.430437+00:00",
+      "target": "191"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:131:shubham5080:4775752960:APPROVED",
+      "discord_user_id": "1376526321169207296",
+      "event_type": "pr_reviewed",
+      "github_user": "shubham5080",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-24T18:25:54.581822+00:00",
+      "target": "131"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:131:1471163521877410045",
+      "discord_user_id": "1376526321169207296",
+      "event_type": "pr_opened",
+      "github_user": "shubham5080",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-24T18:25:52.780649+00:00",
+      "target": "131"
+    }
+  ],
+  "generated_at": "2026-08-08T05:25:47.409064+00:00",
+  "org": "StabilityNexus",
+  "run_id": "50e47a09-4cae-4f25-b4a1-1b48a5d86975",
+  "schema_version": "1.0.0"
+}
