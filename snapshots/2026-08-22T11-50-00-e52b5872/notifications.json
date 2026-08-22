@@ -1,0 +1,4278 @@
+{
+  "data": [
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:127:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-22T08:20:05.867024+00:00",
+      "target": "127"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:203:1328282666335993856",
+      "discord_user_id": "1314193439792955402",
+      "event_type": "pr_opened",
+      "github_user": "g-k-s-03",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-22T08:20:05.198518+00:00",
+      "target": "203"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:197:atharva0506:4999540835:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-22T08:20:05.183750+00:00",
+      "target": "197"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:197:atharva0506:4999539657:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-22T08:20:04.126653+00:00",
+      "target": "197"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:197:atharva0506:4999519059:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-22T07:49:58.474627+00:00",
+      "target": "197"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:197:atharva0506:4999518527:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-22T07:49:57.549430+00:00",
+      "target": "197"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:197:atharva0506:4999475548:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-22T07:20:08.857650+00:00",
+      "target": "197"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Chainvoice:196:atharva0506",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_merged",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-22T05:50:35.535510+00:00",
+      "target": "196"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:142:shantanushok:4995709156:APPROVED",
+      "discord_user_id": "770141422174470155",
+      "event_type": "pr_reviewed",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-21T17:27:52.249105+00:00",
+      "target": "142"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM-WebUI:30:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM-WebUI",
+      "sent_at": "2026-08-21T16:27:47.262353+00:00",
+      "target": "30"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:22:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "IIITManjeet",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-21T15:57:35.143011+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:142:shantanushok:4993741623:CHANGES_REQUESTED",
+      "discord_user_id": "770141422174470155",
+      "event_type": "pr_reviewed",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-21T13:57:28.052585+00:00",
+      "target": "142"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:142:shantanushok:4992840174:CHANGES_REQUESTED",
+      "discord_user_id": "770141422174470155",
+      "event_type": "pr_reviewed",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-21T11:57:54.560120+00:00",
+      "target": "142"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:142:shantanushok:4991241221:COMMENTED",
+      "discord_user_id": "770141422174470155",
+      "event_type": "pr_reviewed",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-21T08:27:40.630117+00:00",
+      "target": "142"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:142:shantanushok:4991228022:CHANGES_REQUESTED",
+      "discord_user_id": "770141422174470155",
+      "event_type": "pr_reviewed",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-21T08:27:39.224232+00:00",
+      "target": "142"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:142:1471163521877410045",
+      "discord_user_id": "770141422174470155",
+      "event_type": "pr_opened",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-21T08:27:36.640836+00:00",
+      "target": "142"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:126:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-21T07:27:48.778337+00:00",
+      "target": "126"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:124:rohans02:4990582062:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-21T07:27:48.765694+00:00",
+      "target": "124"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:124:rohans02:4990576050:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-21T07:27:47.730310+00:00",
+      "target": "124"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:125:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-21T06:57:40.667052+00:00",
+      "target": "125"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:124:rohans02:4990407447:CHANGES_REQUESTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-21T06:57:40.605610+00:00",
+      "target": "124"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:140:shantanushok:4989202708:CHANGES_REQUESTED",
+      "discord_user_id": "770141422174470155",
+      "event_type": "pr_reviewed",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-21T02:31:51.184325+00:00",
+      "target": "140"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:122:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-21T02:01:57.301700+00:00",
+      "target": "122"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:121:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-21T02:01:56.406026+00:00",
+      "target": "121"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:21:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "IIITManjeet",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-20T17:57:19.468735+00:00",
+      "target": "21"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:WalletLink:7:vishwajeettulse",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_merged",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-20T13:08:42.801714+00:00",
+      "target": "7"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:7:vishwajeettulse:4982957383:APPROVED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-20T13:08:40.379175+00:00",
+      "target": "7"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:124:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-20T09:25:02.857732+00:00",
+      "target": "124"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:121:rohans02:4980796632:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-20T08:54:38.127146+00:00",
+      "target": "121"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:196:atharva0506:4979741533:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-20T06:39:54.387838+00:00",
+      "target": "196"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:196:atharva0506:4979574286:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-20T06:09:59.899688+00:00",
+      "target": "196"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:20:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "IIITManjeet",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-19T19:39:58.252540+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM-WebUI:29:sach2004:4971247975:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM-WebUI",
+      "sent_at": "2026-08-19T12:59:28.317016+00:00",
+      "target": "29"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:122:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-19T10:36:58.492802+00:00",
+      "target": "122"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:121:rohans02:4969426231:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-19T10:36:58.478760+00:00",
+      "target": "121"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:121:rohans02:4969418214:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-19T10:36:57.562350+00:00",
+      "target": "121"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:121:rohans02:4969416719:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-19T10:36:56.328391+00:00",
+      "target": "121"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:121:rohans02:4969410464:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-19T10:36:55.344676+00:00",
+      "target": "121"
+    },
+    {
+      "channel_id": "1326478469802229800",
+      "dedupe_key": "pr_opened_channel:TNT:47:1326478469802229800",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "kisna-gupta-dev",
+      "repo": "TNT",
+      "sent_at": "2026-08-19T10:36:53.860983+00:00",
+      "target": "47"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:121:rohans02:4969230642:CHANGES_REQUESTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-19T10:36:53.810449+00:00",
+      "target": "121"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:201:1328282666335993856",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "eshaanag",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-19T10:36:50.980186+00:00",
+      "target": "201"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM-WebUI:29:sach2004:4965786441:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM-WebUI",
+      "sent_at": "2026-08-19T10:36:50.930710+00:00",
+      "target": "29"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM-WebUI:29:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM-WebUI",
+      "sent_at": "2026-08-19T10:36:48.144541+00:00",
+      "target": "29"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:121:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-19T10:36:46.685660+00:00",
+      "target": "121"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:197:atharva0506:4959826576:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-18T10:21:17.517821+00:00",
+      "target": "197"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:196:atharva0506:4959815219:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-18T10:21:16.397384+00:00",
+      "target": "196"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:200:atharva0506:4959228744:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-18T09:20:15.384062+00:00",
+      "target": "200"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:200:1328282666335993856",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-18T09:20:13.579515+00:00",
+      "target": "200"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:Chainvoice:194:atharva0506:2026-08-18T08:23:55Z",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_closed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-18T08:50:16.276011+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:Chainvoice:191:atharva0506:2026-08-18T08:16:45Z",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_closed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-18T08:20:13.881417+00:00",
+      "target": "191"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:199:1328282666335993856",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Copilot",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-18T08:20:11.472311+00:00",
+      "target": "199"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Gluon-EVM-WebUI:28:sach2004",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_merged",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM-WebUI",
+      "sent_at": "2026-08-18T05:09:27.302926+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:17:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "IIITManjeet",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-17T21:29:30.296820+00:00",
+      "target": "17"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM-WebUI:28:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM-WebUI",
+      "sent_at": "2026-08-17T19:29:59.203284+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:OrbOracle-EVM-Frontend:42:piyushbijarania",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_merged",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-17T11:30:06.508918+00:00",
+      "target": "42"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Website:75:khushal1512",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_merged",
+      "github_user": "khushal1512",
+      "repo": "Website",
+      "sent_at": "2026-08-17T11:30:05.565466+00:00",
+      "target": "75"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:75:khushal1512:4950841560:APPROVED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "Website",
+      "sent_at": "2026-08-17T11:30:04.458489+00:00",
+      "target": "75"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:113:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-17T11:30:03.231835+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-Sui-Frontend:91:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-17T11:30:02.110633+00:00",
+      "target": "91"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:43:piyushbijarania:4948389758:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-17T11:30:00.877961+00:00",
+      "target": "43"
+    },
+    {
+      "channel_id": "1504406274693922837",
+      "dedupe_key": "pr_opened_channel:OrbOracle-EVM-Frontend:43:1504406274693922837",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_opened",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-17T11:29:58.563253+00:00",
+      "target": "43"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:Fate-Sui-Frontend:53:rohans02:2026-08-16T12:27:17Z",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_closed",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-16T12:30:46.676834+00:00",
+      "target": "53"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:119:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-16T12:30:45.345439+00:00",
+      "target": "119"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Chainvoice:198:atharva0506",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_merged",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-16T08:31:21.928689+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Chainvoice:195:atharva0506",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_merged",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-16T08:31:20.761240+00:00",
+      "target": "195"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Chainvoice:193:atharva0506",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_merged",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-16T08:31:19.420744+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:48:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "tanishk-kh-07",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-15T16:48:08.367263+00:00",
+      "target": "48"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:IdentityTokens-EVM-Frontend:105:khushal1512",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_merged",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-15T14:47:23.920584+00:00",
+      "target": "105"
+    },
+    {
+      "channel_id": "1461697098767532269",
+      "dedupe_key": "pr_opened_channel:IdentityTokens-EVM-Frontend:105:1461697098767532269",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_opened",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-15T14:47:21.227660+00:00",
+      "target": "105"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:140:1471163521877410045",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-15T14:47:20.069006+00:00",
+      "target": "140"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:IdentityTokens-EVM-Frontend:100:khushal1512:2026-08-15T12:14:41Z",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_closed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-15T14:47:20.055642+00:00",
+      "target": "100"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:118:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-15T14:47:17.062492+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:139:1471163521877410045",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "shantanushok",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-15T08:36:05.560523+00:00",
+      "target": "139"
+    },
+    {
+      "channel_id": "1438097291704799323",
+      "dedupe_key": "pr_opened_channel:Zplit:63:1438097291704799323",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "4555jan",
+      "repo": "Zplit",
+      "sent_at": "2026-08-14T17:30:45.774746+00:00",
+      "target": "63"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:91:khushal1512:4932816650:CHANGES_REQUESTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-14T08:38:53.222301+00:00",
+      "target": "91"
+    },
+    {
+      "channel_id": "1461697098767532269",
+      "dedupe_key": "pr_opened_channel:IdentityTokens-EVM-Contracts:91:1461697098767532269",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_opened",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-14T08:38:51.172688+00:00",
+      "target": "91"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:IdentityTokens-EVM-Contracts:90:khushal1512",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_merged",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-14T08:38:51.149613+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:Tectonic-EVM-WebUI:28:ankitkr104:2026-08-13T17:40:57Z",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_closed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-13T19:27:52.859239+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:28:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-13T19:27:51.113280+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:26:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-13T15:28:00.477352+00:00",
+      "target": "26"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:IdentityTokens-EVM-Frontend:104:khushal1512",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_merged",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-13T15:27:59.461606+00:00",
+      "target": "104"
+    },
+    {
+      "channel_id": "1461697098767532269",
+      "dedupe_key": "pr_opened_channel:IdentityTokens-EVM-Frontend:104:1461697098767532269",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_opened",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-13T15:27:57.213113+00:00",
+      "target": "104"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:IdentityTokens-EVM-Frontend:103:khushal1512",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_merged",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-13T15:27:57.199091+00:00",
+      "target": "103"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:27:ankitkr104:4926085042:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-13T11:27:46.647768+00:00",
+      "target": "27"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:27:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-13T11:27:44.120662+00:00",
+      "target": "27"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:MiniChain:136:siddhantcookie",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_merged",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-13T09:27:47.362659+00:00",
+      "target": "136"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:136:siddhantcookie:4925398328:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-13T09:27:46.500328+00:00",
+      "target": "136"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Website:76:piyushbijarania",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_merged",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-13T09:27:45.407074+00:00",
+      "target": "76"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:76:piyushbijarania:4924754354:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-13T09:27:44.382322+00:00",
+      "target": "76"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:42:piyushbijarania:4923578916:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-13T07:27:53.434317+00:00",
+      "target": "42"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:76:piyushbijarania:4923537689:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-13T07:27:52.093333+00:00",
+      "target": "76"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:76:piyushbijarania:4923536396:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-13T07:27:51.103870+00:00",
+      "target": "76"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:76:piyushbijarania:4923535376:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-13T07:27:50.046185+00:00",
+      "target": "76"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:76:piyushbijarania:4923461963:CHANGES_REQUESTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-13T07:27:48.887682+00:00",
+      "target": "76"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:86:khushal1512:4922472177:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-13T04:29:32.562732+00:00",
+      "target": "86"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Frontend:100:khushal1512:4922461022:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-13T04:29:31.666039+00:00",
+      "target": "100"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Frontend:100:khushal1512:4922459952:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-13T04:29:30.703401+00:00",
+      "target": "100"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:90:khushal1512:4922447339:CHANGES_REQUESTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-13T04:29:29.655229+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": "1461697098767532269",
+      "dedupe_key": "pr_opened_channel:IdentityTokens-EVM-Contracts:90:1461697098767532269",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_opened",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-13T04:29:27.523605+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:76:piyushbijarania:4921637150:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-13T04:29:27.507353+00:00",
+      "target": "76"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Keeper:18:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-13T04:29:24.437950+00:00",
+      "target": "18"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:18:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-13T04:29:22.517937+00:00",
+      "target": "18"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:76:piyushbijarania:4921552392:CHANGES_REQUESTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-13T04:29:22.497443+00:00",
+      "target": "76"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Contracts:16:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-13T04:29:21.265275+00:00",
+      "target": "16"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:16:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-13T04:29:19.580982+00:00",
+      "target": "16"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-WebUI:47:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-13T04:29:19.528229+00:00",
+      "target": "47"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:47:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-13T04:29:17.339597+00:00",
+      "target": "47"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:42:piyushbijarania:4921235469:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-13T04:29:17.320739+00:00",
+      "target": "42"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:42:piyushbijarania:4919209536:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-12T17:35:50.646412+00:00",
+      "target": "42"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:46:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T15:08:20.232207+00:00",
+      "target": "46"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:Website:73:khushal1512:2026-08-12T13:56:46Z",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_closed",
+      "github_user": "khushal1512",
+      "repo": "Website",
+      "sent_at": "2026-08-12T15:08:20.222649+00:00",
+      "target": "73"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Contracts:15:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-12T15:08:19.197774+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:Website:74:khushal1512:2026-08-12T13:52:33Z",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_closed",
+      "github_user": "khushal1512",
+      "repo": "Website",
+      "sent_at": "2026-08-12T15:08:18.128505+00:00",
+      "target": "74"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:45:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T15:08:16.036634+00:00",
+      "target": "45"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:44:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T15:08:15.331346+00:00",
+      "target": "44"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:43:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T15:08:14.810816+00:00",
+      "target": "43"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:32:sach2004:4916720317:CHANGES_REQUESTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-12T15:08:14.795694+00:00",
+      "target": "32"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Contracts:15:aniket866:4915985719:CHANGES_REQUESTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-12T12:59:00.952119+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:15:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-12T12:58:59.280037+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4914958447:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-12T11:00:15.509895+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4914945277:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-12T11:00:14.283068+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4914874959:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-12T11:00:13.103911+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Keeper:15:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-12T11:00:11.876545+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Keeper:16:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-12T11:00:10.538750+00:00",
+      "target": "16"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:16:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-12T11:00:06.294750+00:00",
+      "target": "16"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:15:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-12T11:00:05.245243+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-WebUI:42:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T11:00:05.221192+00:00",
+      "target": "42"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:42:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T11:00:03.098917+00:00",
+      "target": "42"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-WebUI:41:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T11:00:03.046642+00:00",
+      "target": "41"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:41:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T11:00:00.841413+00:00",
+      "target": "41"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:MiniChain:138:siddhantcookie",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_merged",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-12T11:00:00.819209+00:00",
+      "target": "138"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:138:siddhantcookie:4914013223:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-12T10:59:59.785975+00:00",
+      "target": "138"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Contracts:14:aniket866:4913926048:CHANGES_REQUESTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-12T10:59:58.308047+00:00",
+      "target": "14"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:Windmill-EVM-Contracts:8:aniket866:2026-08-12T07:16:22Z",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_closed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-12T10:59:57.323410+00:00",
+      "target": "8"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Contracts:14:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-12T10:59:56.262932+00:00",
+      "target": "14"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4913887846:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-12T10:59:55.279994+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:14:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-12T10:59:52.824774+00:00",
+      "target": "14"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4913864835:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-12T10:59:52.809301+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-WebUI:40:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-12T10:59:51.569995+00:00",
+      "target": "40"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Website:72:piyushbijarania",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_merged",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-12T10:59:50.032597+00:00",
+      "target": "72"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:115:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-12T10:59:48.035866+00:00",
+      "target": "115"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Frontend:103:khushal1512:4912573110:APPROVED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-12T02:52:38.167884+00:00",
+      "target": "103"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Frontend:103:khushal1512:4912520282:CHANGES_REQUESTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-12T02:52:36.485209+00:00",
+      "target": "103"
+    },
+    {
+      "channel_id": "1461697098767532269",
+      "dedupe_key": "pr_opened_channel:IdentityTokens-EVM-Frontend:103:1461697098767532269",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_opened",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-12T02:52:34.729313+00:00",
+      "target": "103"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:73:khushal1512:4912287940:APPROVED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "Website",
+      "sent_at": "2026-08-12T02:52:34.715968+00:00",
+      "target": "73"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:73:khushal1512:4912271029:CHANGES_REQUESTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "Website",
+      "sent_at": "2026-08-12T02:52:33.824122+00:00",
+      "target": "73"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:138:siddhantcookie:4910652720:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-11T20:59:00.018523+00:00",
+      "target": "138"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:138:siddhantcookie:4910312948:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-11T20:58:58.813979+00:00",
+      "target": "138"
+    },
+    {
+      "channel_id": "1438097291704799323",
+      "dedupe_key": "pr_opened_channel:Zplit:62:1438097291704799323",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "4555jan",
+      "repo": "Zplit",
+      "sent_at": "2026-08-11T20:58:56.962749+00:00",
+      "target": "62"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:138:siddhantcookie:4909675363:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-11T19:00:29.535818+00:00",
+      "target": "138"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:Windmill-EVM-WebUI:34:aniket866:2026-08-11T18:39:08Z",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_closed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-11T19:00:28.301709+00:00",
+      "target": "34"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:138:1471163521877410045",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-11T19:00:26.262085+00:00",
+      "target": "138"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:40:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-11T19:00:25.611929+00:00",
+      "target": "40"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-WebUI:34:aniket866:4909530327:CHANGES_REQUESTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-11T19:00:25.597870+00:00",
+      "target": "34"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Keeper:13:aniket866:4909390459:COMMENTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T19:00:24.523295+00:00",
+      "target": "13"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Keeper:13:aniket866:4909385872:COMMENTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T19:00:23.311405+00:00",
+      "target": "13"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Keeper:13:aniket866:4909215942:COMMENTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T19:00:22.374003+00:00",
+      "target": "13"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Keeper:13:aniket866:4909213575:CHANGES_REQUESTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T19:00:20.661258+00:00",
+      "target": "13"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Keeper:13:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T19:00:19.727362+00:00",
+      "target": "13"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:13:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T19:00:16.953730+00:00",
+      "target": "13"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908871849:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:16.935568+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908869469:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:15.845843+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908865474:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:13.983163+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908865406:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:12.798006+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908864374:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:08.749641+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908864249:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:07.326643+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908863760:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:06.398245+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908863047:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:05.283869+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908861019:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:04.206373+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908860682:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:02.814622+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908860280:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:01.754586+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908859999:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T19:00:00.383134+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908859668:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T18:59:59.532265+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:72:piyushbijarania:4908823988:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T18:59:58.516657+00:00",
+      "target": "72"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4908807113:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-11T18:59:57.388486+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4908771392:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-11T18:59:56.291121+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Keeper:9:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T18:59:55.315545+00:00",
+      "target": "9"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Keeper:9:aniket866:4908745072:APPROVED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T18:59:54.388754+00:00",
+      "target": "9"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Windmill-EVM-Keeper:8:aniket866",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_merged",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T18:59:53.315744+00:00",
+      "target": "8"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Keeper:8:aniket866:4908737647:APPROVED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-11T18:59:51.347083+00:00",
+      "target": "8"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM:34:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-11T17:00:02.604613+00:00",
+      "target": "34"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:118:rohans02:4908582209:CHANGES_REQUESTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T17:00:02.577851+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:119:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T17:00:00.912649+00:00",
+      "target": "119"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:118:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T17:00:00.047877+00:00",
+      "target": "118"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM:33:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-11T16:59:59.317277+00:00",
+      "target": "33"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:42:piyushbijarania:4908239409:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-11T16:59:59.304072+00:00",
+      "target": "42"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:32:sach2004:4908208111:CHANGES_REQUESTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-11T16:59:58.407388+00:00",
+      "target": "32"
+    },
+    {
+      "channel_id": "1504406274693922837",
+      "dedupe_key": "pr_opened_channel:OrbOracle-EVM-Frontend:42:1504406274693922837",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_opened",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-11T16:59:56.477621+00:00",
+      "target": "42"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM:32:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-11T16:59:55.759190+00:00",
+      "target": "32"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:117:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T16:59:55.745434+00:00",
+      "target": "117"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:116:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T16:59:54.877936+00:00",
+      "target": "116"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:117:rohans02:4906847443:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T16:59:53.499544+00:00",
+      "target": "117"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Website:71:piyushbijarania",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_merged",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:52.060094+00:00",
+      "target": "71"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:71:piyushbijarania:4906676764:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:51.035889+00:00",
+      "target": "71"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:71:piyushbijarania:4906524463:CHANGES_REQUESTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:49.915709+00:00",
+      "target": "71"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Website:70:piyushbijarania",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_merged",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:48.886758+00:00",
+      "target": "70"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:70:piyushbijarania:4905976080:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:47.924847+00:00",
+      "target": "70"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:70:piyushbijarania:4905928545:CHANGES_REQUESTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:46.939641+00:00",
+      "target": "70"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Website:68:piyushbijarania",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_merged",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:45.933788+00:00",
+      "target": "68"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:68:piyushbijarania:4905879923:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:45.025247+00:00",
+      "target": "68"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:70:piyushbijarania:4905866443:CHANGES_REQUESTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T16:59:44.075914+00:00",
+      "target": "70"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:MiniChain:137:siddhantcookie",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_merged",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-11T11:37:49.427696+00:00",
+      "target": "137"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:137:siddhantcookie:4905598830:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-11T11:37:48.355434+00:00",
+      "target": "137"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4905587947:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-11T11:37:47.346516+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:136:siddhantcookie:4905490482:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-11T11:37:46.427915+00:00",
+      "target": "136"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:26:ankitkr104:4905471482:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-11T11:37:45.471742+00:00",
+      "target": "26"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:26:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-11T11:37:43.309996+00:00",
+      "target": "26"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:117:rohans02:4904586363:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T09:39:40.876365+00:00",
+      "target": "117"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:117:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T09:39:38.449010+00:00",
+      "target": "117"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:116:rohans02:4904306110:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T09:39:38.434181+00:00",
+      "target": "116"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:116:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-11T09:39:36.605137+00:00",
+      "target": "116"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4903902024:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-11T09:39:36.587316+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Gluon-EVM:31:sach2004",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_merged",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-11T07:05:45.673030+00:00",
+      "target": "31"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Gluon-EVM:30:sach2004",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_merged",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-11T07:05:44.726711+00:00",
+      "target": "30"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Gluon-EVM:29:sach2004",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_merged",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-11T07:05:43.712442+00:00",
+      "target": "29"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:70:piyushbijarania:4901164789:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T05:03:12.882187+00:00",
+      "target": "70"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:70:piyushbijarania:4901059786:CHANGES_REQUESTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-11T05:03:11.990023+00:00",
+      "target": "70"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:137:1471163521877410045",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-11T05:03:09.489813+00:00",
+      "target": "137"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:136:siddhantcookie:4900904499:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T21:13:38.663086+00:00",
+      "target": "136"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:136:1471163521877410045",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T21:13:36.308790+00:00",
+      "target": "136"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:30:sach2004:4899944628:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-10T19:13:59.446625+00:00",
+      "target": "30"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:68:piyushbijarania:4899799336:APPROVED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-10T19:13:58.529525+00:00",
+      "target": "68"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:68:piyushbijarania:4899788921:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-10T19:13:57.630342+00:00",
+      "target": "68"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM:31:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-10T19:13:55.812355+00:00",
+      "target": "31"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:12:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-10T19:13:55.300669+00:00",
+      "target": "12"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:13:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-10T19:13:54.430309+00:00",
+      "target": "13"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:39:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-10T19:13:53.868081+00:00",
+      "target": "39"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:38:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-10T19:13:53.296236+00:00",
+      "target": "38"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:68:piyushbijarania:4899264843:CHANGES_REQUESTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "Website",
+      "sent_at": "2026-08-10T19:13:53.284260+00:00",
+      "target": "68"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-Solana:6:rohans02:4899239616:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-Solana",
+      "sent_at": "2026-08-10T17:14:30.912459+00:00",
+      "target": "6"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:11:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-10T17:14:29.265685+00:00",
+      "target": "11"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-LandingPage:5:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-LandingPage",
+      "sent_at": "2026-08-10T17:14:28.330828+00:00",
+      "target": "5"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-Solana-WebUI:5:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-Solana-WebUI",
+      "sent_at": "2026-08-10T17:14:27.088959+00:00",
+      "target": "5"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-Solana:6:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-Solana",
+      "sent_at": "2026-08-10T17:14:26.233271+00:00",
+      "target": "6"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Contracts:12:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-Contracts",
+      "sent_at": "2026-08-10T17:14:25.347603+00:00",
+      "target": "12"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:37:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Muneerali199",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-10T17:14:24.463617+00:00",
+      "target": "37"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:7:vishwajeettulse:4899183895:APPROVED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-10T17:14:24.452426+00:00",
+      "target": "7"
+    },
+    {
+      "channel_id": "1525366355682000948",
+      "dedupe_key": "pr_opened_channel:WalletLink:7:1525366355682000948",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_opened",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-10T17:14:22.668901+00:00",
+      "target": "7"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:115:rohans02:4899110166:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T17:14:22.655982+00:00",
+      "target": "115"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-Sui-Frontend:91:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-10T17:14:20.532336+00:00",
+      "target": "91"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:115:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T17:14:19.883791+00:00",
+      "target": "115"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4898311379:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-10T17:14:19.842376+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:198:atharva0506:4898161071:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-10T17:14:18.832601+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:198:1328282666335993856",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-10T17:14:15.989495+00:00",
+      "target": "198"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:86:khushal1512:4897271821:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T14:11:45.003694+00:00",
+      "target": "86"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Frontend:100:khushal1512:4897234249:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Frontend",
+      "sent_at": "2026-08-10T14:11:44.144454+00:00",
+      "target": "100"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:195:atharva0506:4897186048:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-10T14:11:42.784167+00:00",
+      "target": "195"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:195:atharva0506:4896958161:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-10T14:11:41.904383+00:00",
+      "target": "195"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4896918244:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-10T14:11:40.632557+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:MiniChain:134:siddhantcookie",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_merged",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T12:11:37.935966+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4895892623:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T12:11:36.955067+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Website:67:siddhantcookie",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_merged",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "Website",
+      "sent_at": "2026-08-10T12:11:35.882755+00:00",
+      "target": "67"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Website:67:siddhantcookie:4895852345:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "Website",
+      "sent_at": "2026-08-10T12:11:34.961835+00:00",
+      "target": "67"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4895802030:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T12:11:34.039237+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4894993942:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-10T12:11:33.017273+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:193:atharva0506:4894981221:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-10T12:11:31.786999+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:MiniChain:131:shubham5080:2026-08-10T07:32:56Z",
+      "discord_user_id": "1376526321169207296",
+      "event_type": "pr_closed",
+      "github_user": "shubham5080",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T07:52:13.052725+00:00",
+      "target": "131"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_closed:MiniChain:129:siddhantcookie:2026-08-10T07:32:47Z",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_closed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T07:52:12.020766+00:00",
+      "target": "129"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:MiniChain:133:siddhantcookie",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_merged",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T07:52:11.101052+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4894480317:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-10T07:52:09.998880+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-Sui-Frontend:90:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-10T07:52:08.837808+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-Sui-Frontend:90:rohans02:4894358207:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-10T07:52:07.914630+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:114:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T07:52:07.029568+00:00",
+      "target": "114"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:114:rohans02:4894356487:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T07:52:06.060902+00:00",
+      "target": "114"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-Sui-Frontend:90:rohans02:4894095411:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-10T07:52:05.007086+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-Sui-Frontend:90:rohans02:4894094145:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-10T07:52:04.033937+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:114:rohans02:4894092327:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T07:52:03.011394+00:00",
+      "target": "114"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:114:rohans02:4894092049:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T07:52:01.989622+00:00",
+      "target": "114"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:114:rohans02:4894091162:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T07:52:00.959712+00:00",
+      "target": "114"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-Sui-Frontend:90:rohans02:4894014827:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-10T07:51:59.605699+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:114:rohans02:4894014059:CHANGES_REQUESTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T07:51:58.401855+00:00",
+      "target": "114"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-Sui-Frontend:90:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-10T07:51:56.456954+00:00",
+      "target": "90"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:114:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-10T07:51:55.533883+00:00",
+      "target": "114"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893280333:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:12.375929+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893279588:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:11.354055+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893279265:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:10.083882+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893278810:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:08.178783+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893278594:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:07.155468+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893278212:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:06.132311+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893278083:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:05.310205+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893277671:COMMENTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:04.408272+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4893270047:CHANGES_REQUESTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-10T02:52:03.051108+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4890995169:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T12:23:51.513679+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4890981974:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T12:23:50.486323+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4890980985:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T12:23:49.277113+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:195:atharva0506:4890979319:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T12:23:48.086566+00:00",
+      "target": "195"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4890978934:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T12:23:47.099810+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4890978733:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T12:23:46.071595+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4890841939:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T08:47:25.084738+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:195:atharva0506:4890836640:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T08:47:23.358577+00:00",
+      "target": "195"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:195:atharva0506:4890836060:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T08:47:22.173236+00:00",
+      "target": "195"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:IdentityTokens-EVM-Contracts:89:khushal1512",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_merged",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-09T08:47:17.524502+00:00",
+      "target": "89"
+    },
+    {
+      "channel_id": "1461697098767532269",
+      "dedupe_key": "pr_opened_channel:IdentityTokens-EVM-Contracts:89:1461697098767532269",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_opened",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-09T08:47:15.285375+00:00",
+      "target": "89"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:IdentityTokens-EVM-Contracts:88:khushal1512:4890673100:CHANGES_REQUESTED",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_reviewed",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-09T06:31:37.836768+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": "1461697098767532269",
+      "dedupe_key": "pr_opened_channel:IdentityTokens-EVM-Contracts:88:1461697098767532269",
+      "discord_user_id": "773145359207497790",
+      "event_type": "pr_opened",
+      "github_user": "khushal1512",
+      "repo": "IdentityTokens-EVM-Contracts",
+      "sent_at": "2026-08-09T06:31:34.183474+00:00",
+      "target": "88"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:195:atharva0506:4890452639:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-09T04:13:13.617610+00:00",
+      "target": "195"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4888912396:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T22:12:50.982785+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4888890786:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T22:12:50.004182+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:30:sach2004:4888674660:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-08T11:48:24.080383+00:00",
+      "target": "30"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:194:atharva0506:4888658095:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T11:47:52.940528+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:193:atharva0506:4888593455:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T11:47:52.047042+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:193:atharva0506:4888593386:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T11:47:50.453682+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:193:atharva0506:4888592463:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T11:47:49.487644+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:193:atharva0506:4888591707:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T11:47:48.416749+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:193:atharva0506:4888591033:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T11:47:47.419893+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:193:atharva0506:4888566447:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T09:47:38.008287+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888543087:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:21.522676+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888543038:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:20.687549+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542978:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:19.559985+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542902:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:18.640911+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542883:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:17.616432+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542862:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:16.590478+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542857:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:15.546212+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542819:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:14.133065+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542799:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:12.876757+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542763:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:11.880849+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542717:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:10.914421+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542670:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:09.626992+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542633:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:08.707155+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542585:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:07.683932+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888542523:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:06.658366+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:197:1328282666335993856",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T09:26:04.918122+00:00",
+      "target": "197"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:196:1328282666335993856",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T09:26:04.207533+00:00",
+      "target": "196"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:195:1328282666335993856",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T09:26:03.589753+00:00",
+      "target": "195"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:194:1328282666335993856",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T09:26:02.767831+00:00",
+      "target": "194"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:193:1328282666335993856",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-08-08T09:26:01.291256+00:00",
+      "target": "193"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:113:rohans02:4888498175:CHANGES_REQUESTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:26:01.279670+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-EVM-Frontend:113:1324064370883301386",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_opened",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-08-08T09:25:59.471009+00:00",
+      "target": "113"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:24:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-08T03:25:46.382555+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:24:ankitkr104:4886396112:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-08T03:25:45.417666+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:25:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-08T03:25:44.509486+00:00",
+      "target": "25"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:25:ankitkr104:4881519651:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-07T10:39:34.088528+00:00",
+      "target": "25"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:25:ankitkr104:4881461000:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-07T10:39:33.063652+00:00",
+      "target": "25"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:25:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-07T10:39:31.362707+00:00",
+      "target": "25"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:41:piyushbijarania:4879160921:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-07T04:39:29.524357+00:00",
+      "target": "41"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4878233256:APPROVED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-07T04:39:28.610727+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4878233010:COMMENTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-07T04:39:27.670262+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4878217757:COMMENTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-07T04:39:26.634076+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:OrbOracle-EVM-Frontend:41:piyushbijarania:4870349588:COMMENTED",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_reviewed",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-06T04:33:32.547395+00:00",
+      "target": "41"
+    },
+    {
+      "channel_id": "1504406274693922837",
+      "dedupe_key": "pr_opened_channel:OrbOracle-EVM-Frontend:41:1504406274693922837",
+      "discord_user_id": "946050593905070091",
+      "event_type": "pr_opened",
+      "github_user": "Piyushbijarania",
+      "repo": "OrbOracle-EVM-Frontend",
+      "sent_at": "2026-08-06T04:33:28.287818+00:00",
+      "target": "41"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM:29:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-08-05T12:03:48.506659+00:00",
+      "target": "29"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:24:ankitkr104:4863332973:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-05T12:03:48.495469+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:134:siddhantcookie:4863035201:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-05T10:03:52.865973+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4862901227:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-05T10:03:51.703416+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:24:ankitkr104:4862768262:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-05T10:03:50.738528+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:WalletLink:4:vishwajeettulse",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_merged",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-05T10:03:49.619176+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4862414315:APPROVED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-05T10:03:48.528416+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:24:ankitkr104:4861441510:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-05T07:02:09.767656+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:24:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-05T07:02:07.925896+00:00",
+      "target": "24"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4856354203:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T16:48:33.977793+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4856328970:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T16:48:33.070758+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4856311244:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T16:48:32.135707+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4856186053:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T16:48:31.215453+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:4:vishwajeettulse:4853208922:CHANGES_REQUESTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T11:11:35.955365+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": "1525366355682000948",
+      "dedupe_key": "pr_opened_channel:WalletLink:4:1525366355682000948",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_opened",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-08-04T11:11:34.050417+00:00",
+      "target": "4"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4848890646:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-03T22:10:52.041264+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:134:1471163521877410045",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-03T20:10:37.392166+00:00",
+      "target": "134"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4847618538:COMMENTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-03T20:10:36.372679+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:36:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Adi007-king",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-03T06:46:19.200339+00:00",
+      "target": "36"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:23:ankitkr104:4841057957:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-03T06:46:18.587264+00:00",
+      "target": "23"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:23:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-03T06:46:17.626034+00:00",
+      "target": "23"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4839686152:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-08-03T06:46:16.024709+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:10:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Adi007-king",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-02T17:40:51.375740+00:00",
+      "target": "10"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:35:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Adi007-king",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-02T15:41:32.707413+00:00",
+      "target": "35"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:23:ankitkr104:4837387587:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-02T06:07:21.795651+00:00",
+      "target": "23"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:23:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-08-02T06:07:20.757960+00:00",
+      "target": "23"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-WebUI:34:aniket866:4835616554:CHANGES_REQUESTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-02T04:07:53.643821+00:00",
+      "target": "34"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:34:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-08-02T04:07:52.804416+00:00",
+      "target": "34"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Windmill-EVM-Keeper:8:aniket866:4835614128:CHANGES_REQUESTED",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_reviewed",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-02T04:07:52.152499+00:00",
+      "target": "8"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:8:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-02T04:07:50.567963+00:00",
+      "target": "8"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-Keeper:9:1458849723296256050",
+      "discord_user_id": "1326994272976769156",
+      "event_type": "pr_opened",
+      "github_user": "aniket866",
+      "repo": "Windmill-EVM-Keeper",
+      "sent_at": "2026-08-02T04:07:49.656123+00:00",
+      "target": "9"
+    },
+    {
+      "channel_id": "1324064370883301386",
+      "dedupe_key": "pr_opened_channel:Fate-Sui-Frontend:89:1324064370883301386",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Akash-Dhanwate",
+      "repo": "Fate-Sui-Frontend",
+      "sent_at": "2026-08-01T08:36:22.140266+00:00",
+      "target": "89"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Gluon-EVM:28:sach2004",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_merged",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-30T15:40:04.637578+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4818673314:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T13:36:32.354831+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:15:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T13:36:31.366911+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:22:ankitkr104:4818686838:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T13:36:30.414574+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:22:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T13:36:29.461406+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:22:ankitkr104:4817226522:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T09:38:14.526072+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:22:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T09:38:13.624576+00:00",
+      "target": "22"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:21:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-30T07:38:34.606819+00:00",
+      "target": "21"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:105:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-30T07:38:33.275674+00:00",
+      "target": "105"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:109:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-30T07:38:32.331427+00:00",
+      "target": "109"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:107:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-30T07:38:31.412220+00:00",
+      "target": "107"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4812609541:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-30T03:15:53.782441+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:133:siddhantcookie:4808715700:CHANGES_REQUESTED",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_reviewed",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-29T14:35:49.664407+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:133:1471163521877410045",
+      "discord_user_id": "1237334546828103701",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-29T14:35:47.380576+00:00",
+      "target": "133"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:28:sach2004:4805527347:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-29T08:50:17.180085+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:28:sach2004:4805525207:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-29T08:50:16.320228+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Gluon-EVM:28:sach2004:4805361619:COMMENTED",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_reviewed",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-29T08:50:15.325597+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": "1283781488587837492",
+      "dedupe_key": "pr_opened_channel:Gluon-EVM:28:1283781488587837492",
+      "discord_user_id": "480027202532933642",
+      "event_type": "pr_opened",
+      "github_user": "sach2004",
+      "repo": "Gluon-EVM",
+      "sent_at": "2026-07-29T08:50:11.657247+00:00",
+      "target": "28"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:132:1471163521877410045",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "SIDDHANTCOOKIE",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-29T04:28:35.494438+00:00",
+      "target": "132"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:21:ankitkr104:4799034929:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T16:34:22.484347+00:00",
+      "target": "21"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:21:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T16:34:21.458685+00:00",
+      "target": "21"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4798163233:COMMENTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T14:34:41.881721+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:20:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T12:17:05.329428+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:3:vishwajeettulse:4793217198:APPROVED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-28T10:26:00.985305+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:WalletLink:3:vishwajeettulse",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_merged",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-28T10:25:59.855282+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:20:ankitkr104:4794285659:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:58.171035+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:20:ankitkr104:4794248714:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:56.800712+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:20:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:55.820126+00:00",
+      "target": "20"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4796051038:COMMENTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:55.186973+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4794372147:COMMENTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:54.176671+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:15:ankitkr104:4789580508:COMMENTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-28T10:25:53.255812+00:00",
+      "target": "15"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:109:rohans02:4793986595:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-28T10:25:52.209507+00:00",
+      "target": "109"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:105:rohans02:4794007816:APPROVED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-28T10:25:51.183272+00:00",
+      "target": "105"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4793229351:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-28T10:25:50.161526+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Chainvoice:190:atharva0506",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_merged",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-28T10:25:49.144374+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786790715:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:16:02.046901+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786781708:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:16:00.998198+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786778692:COMMENTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:16:00.039462+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786677192:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:15:59.019866+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:190:atharva0506:4786424729:CHANGES_REQUESTED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-27T13:15:57.995538+00:00",
+      "target": "190"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:3:vishwajeettulse:4786021603:CHANGES_REQUESTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-27T11:17:01.539648+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:3:vishwajeettulse:4782401283:COMMENTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-27T09:14:57.638783+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": "1458849723296256050",
+      "dedupe_key": "pr_opened_channel:Windmill-EVM-WebUI:33:1458849723296256050",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Adi007-king",
+      "repo": "Windmill-EVM-WebUI",
+      "sent_at": "2026-07-27T09:14:56.613908+00:00",
+      "target": "33"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Tectonic-EVM-WebUI:19:ankitkr104",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_merged",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-26T12:26:44.886330+00:00",
+      "target": "19"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:WalletLink:3:vishwajeettulse:4781174861:CHANGES_REQUESTED",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_reviewed",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-26T07:50:31.360295+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": "1525366355682000948",
+      "dedupe_key": "pr_opened_channel:WalletLink:3:1525366355682000948",
+      "discord_user_id": "939075856062615602",
+      "event_type": "pr_opened",
+      "github_user": "VishwajeetTulse",
+      "repo": "WalletLink",
+      "sent_at": "2026-07-26T07:50:29.737274+00:00",
+      "target": "3"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:19:ankitkr104:4781179849:APPROVED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-26T07:50:29.168826+00:00",
+      "target": "19"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Tectonic-EVM-WebUI:19:ankitkr104:4781154185:CHANGES_REQUESTED",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_reviewed",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-26T07:50:28.128045+00:00",
+      "target": "19"
+    },
+    {
+      "channel_id": "1503320626096635935",
+      "dedupe_key": "pr_opened_channel:Tectonic-EVM-WebUI:19:1503320626096635935",
+      "discord_user_id": "1457756952841945141",
+      "event_type": "pr_opened",
+      "github_user": "ankitkr104",
+      "repo": "Tectonic-EVM-WebUI",
+      "sent_at": "2026-07-26T07:50:25.702928+00:00",
+      "target": "19"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Fate-EVM-Frontend:109:rohans02:4781086625:COMMENTED",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_reviewed",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-26T07:50:24.803860+00:00",
+      "target": "109"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_merged:Fate-EVM-Frontend:103:rohans02",
+      "discord_user_id": "1017705322820943923",
+      "event_type": "pr_merged",
+      "github_user": "rohans02",
+      "repo": "Fate-EVM-Frontend",
+      "sent_at": "2026-07-26T05:44:49.395206+00:00",
+      "target": "103"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:Chainvoice:191:atharva0506:4778848642:APPROVED",
+      "discord_user_id": "573550124215697443",
+      "event_type": "pr_reviewed",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-25T14:37:30.577789+00:00",
+      "target": "191"
+    },
+    {
+      "channel_id": "1328282666335993856",
+      "dedupe_key": "pr_opened_channel:Chainvoice:191:1328282666335993856",
+      "discord_user_id": "",
+      "event_type": "pr_opened",
+      "github_user": "Atharva0506",
+      "repo": "Chainvoice",
+      "sent_at": "2026-07-25T11:38:55.430437+00:00",
+      "target": "191"
+    },
+    {
+      "channel_id": null,
+      "dedupe_key": "pr_reviewed:MiniChain:131:shubham5080:4775752960:APPROVED",
+      "discord_user_id": "1376526321169207296",
+      "event_type": "pr_reviewed",
+      "github_user": "shubham5080",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-24T18:25:54.581822+00:00",
+      "target": "131"
+    },
+    {
+      "channel_id": "1471163521877410045",
+      "dedupe_key": "pr_opened_channel:MiniChain:131:1471163521877410045",
+      "discord_user_id": "1376526321169207296",
+      "event_type": "pr_opened",
+      "github_user": "shubham5080",
+      "repo": "MiniChain",
+      "sent_at": "2026-07-24T18:25:52.780649+00:00",
+      "target": "131"
+    }
+  ],
+  "generated_at": "2026-08-22T11:50:00.076146+00:00",
+  "org": "StabilityNexus",
+  "run_id": "e52b5872-2d8c-4677-8dd4-7fc122fe0bc2",
+  "schema_version": "1.0.0"
+}
